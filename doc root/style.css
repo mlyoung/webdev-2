@@ -1,0 +1,46 @@
+body {font-family: "Whitney";}
+
+h1, h2 {margin: 0;
+	font-weight: normal;
+
+}
+
+#container {
+ background-color: white;
+ width: 1024px;
+ margin-right: auto;
+ margin-left: auto;
+
+}
+#header {
+	background-color: #B8DBD9;
+	color: #000000;
+	padding: 40px; 
+	
+}
+#content {
+	padding: 40px;
+
+	
+}
+#photo {
+	float: left;
+	
+	
+
+
+}
+#text {
+	float:right;
+	color: #000000;
+
+	
+}
+
+#contact {
+	clear: both;
+	padding: 40px;
+	text-align: left;
+	background-color: white;
+}
+#footer {}
